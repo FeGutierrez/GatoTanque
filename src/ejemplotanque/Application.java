@@ -3,8 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ejercicio1;
+package ejemplotanque;
 import javax.swing.JFrame;
+
+import java.util.Date;
 
 public class Application extends JFrame {
     
@@ -24,6 +26,9 @@ public class Application extends JFrame {
     public static void main(String[] args) {
         Application ex = new Application();
         ex.setVisible(true);
+        
+        
+        
        
     }
 }

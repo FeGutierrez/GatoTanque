@@ -15,8 +15,8 @@ public class EjemploTanque extends JFrame {
 
     private void initUI() {
         add(new Tablero());
-        setSize(1100, 1000);
-        setTitle("Ejercicio 1");
+        setSize(900, 900);
+        setTitle("Tablero");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
     }    
